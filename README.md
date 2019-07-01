@@ -1,4 +1,4 @@
-# 2cupsofart :coffee: :pizza: :art: :paintbrush:
+# :coffee: 2cupsofart :art: :paintbrush:
 
 # Hello Artists of the world!
 
