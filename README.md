@@ -2,7 +2,7 @@
 
 # Hello Artists of the world!
 
-## Table of Contents
+## A place where artists and coffee lovers meet and fall in love. 
 
 - [About MySELF](#aboutmyself)
 - [Gallery](#gallery)
