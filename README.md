@@ -2,7 +2,7 @@
 
 # Hello Artists of the world!
 
-    *a place where artists and coffee lovers meet... * 
+    # a place where artists and coffee lovers' frienship sprouts...
 
 - [About MySELF](#aboutmyself)
 - [Gallery](#gallery)
