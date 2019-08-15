@@ -2,6 +2,12 @@
 
 # Hello Artists of the world!
 
+## Table of Contents
+
+- [ABOUT MySELF](#aboutmyself)
+- [Gallery](#gallery)
+- [Social Media](#socialmedia)
+
 > ABOUT MySELF
 
 - Jen here trying to start a new life in coding. Starting my first coded website and will see how this goes. 
