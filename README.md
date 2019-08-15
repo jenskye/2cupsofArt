@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [ABOUT MySELF](#aboutmyself)
+- [About MySELF](#aboutmyself)
 - [Gallery](#gallery)
 - [Social Media](#socialmedia)
 
