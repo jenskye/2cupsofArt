@@ -1,6 +1,6 @@
-<a href="http://2cupsofart.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="2cupsofart" alt="2cupsofart"></a>
+<a href="http://2cupsofart.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" href="http://2cupsofart.com"><img src="https://www.pinclipart.com/pindetail/hTTim_vibrant-inspiration-coffee-clip-art-clipart-cup-of/" title="2cupsofart" alt="2cupsofart"></a>
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+<!-- [![2cupsofart](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://2cupsofart.com.com) -->
 
 # Hello Artists of the world!
 
