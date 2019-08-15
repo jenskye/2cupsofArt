@@ -1,4 +1,6 @@
-<a href="http://2cupsofart.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" href="http://2cupsofart.com"><img src="https://https://www.diamondartclub.com/collections/coffee-tea/products/coffee-cup-diamond-art-painting?variant=7995620491315" title="2cupsofart" alt="2cupsofart"></a>
+<a href="http://2cupsofart.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="2cupsofart" alt="2cupsofart"></a>
+
+<a href="http://2cupsofart.com"><img src="https://https://www.diamondartclub.com/collections/coffee-tea/products/coffee-cup-diamond-art-painting?variant=7995620491315" title="Coffee" alt="2cupsofart"></a>
 
 <!-- [![2cupsofart](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://2cupsofart.com.com) -->
 
