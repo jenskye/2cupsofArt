@@ -1,4 +1,5 @@
 <a href="http://2cupsofart.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="2cupsofart" alt="2cupsofart"></a>
+<a href="https://cdn.shopify.com/s/files/1/0017/7461/6627/products/diamond-painting-coffee-cup-diamond-art-club-3806675140659_a2c5d277-a415-49b2-9b2c-38038e2b8a1a_1024x1024.jpg?v=1556976559" title="Coffee" alt="2cupsofart"></a>
 
 # Hello Artists of the world!
 
