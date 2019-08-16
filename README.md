@@ -6,9 +6,8 @@
 
 ## A place where artists and coffee lovers' frienship sprouts...
 
-- [About MySELF](#aboutmyself)
-- [Gallery](Gallery.md)
-- [Social Media](#socialmedia)
+- [Our Vision] - [Painting Gallery](Gallery.md) - [Social Media](#socialmedia)
+
 
 > ABOUT MySELF
 
