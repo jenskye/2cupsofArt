@@ -1,7 +1,7 @@
 <a href="http://2cupsofart.com"><img src="firetree.jpg" title="FireTree" alt="2cupsofart"></a>
 
-# Raise your mugs!.... clean your brushes
-# Mix your magical colors..... and enjoy that hot coffee of yours! 
+# Clean your brushes.... Mix your magical colors!
+# Raise your mugs..... and enjoy that hot coffee of yours! 
 
 - [Our Vision](#Vision) 
 - [Painting Gallery](Gallery.md) 
