@@ -6,9 +6,9 @@
 
 ## A place where artists and coffee lovers' frienship sprouts...
 
-- [Our Vision] - [Painting Gallery](Gallery.md) - [Social Media](#socialmedia)
-
-Follow us on Instagram <a href="http://www.instagram.com/jenandjaina/"><img src="instagram.jpg" title="Instagaram" alt="Instalink"></a>
+- [Our Vision](#Vision) - [Painting Gallery](Gallery.md) 
+- [Social Media](#socialmedia)
+<a href="http://www.instagram.com/jenandjaina/"><img src="instagram.jpg" title="Instagaram" alt="Instalink"></a>
 
 > ABOUT MySELF
 
