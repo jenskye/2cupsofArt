@@ -11,7 +11,7 @@
 	<img src="firetree.jpg" alt="" />
 </a>
 <a id="single_2" href="burning tree.png" title="Burning Tree by JenTag">
-	<img src="burning tree.png" alt="" />
+	<img src="burning tree.PNG" alt="" />
 </a>
 <a id="single_3" href="http://farm9.staticflickr.com/8542/29466009773_a809b99d19_b.jpg" title="aletsch (|| | | gamma | | ||)">
 	<img src="http://farm9.staticflickr.com/8542/29466009773_a809b99d19_m.jpg" alt="" />
