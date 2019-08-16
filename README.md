@@ -7,8 +7,7 @@
 - [Painting Gallery](Gallery.md) 
 - [Social Media](#socialmedia)
 
-<a href="http://www.instagram.com/jenandjaina/"><img src="instagram.jpg" title="Instagaram" alt="Instalink"></a>
-<a href="http://www.facebook.com/jen.tag.12/"><img src="Facebook Icon.PNG" title="Facebook" alt="FBlink"></a>
+<a href="http://www.instagram.com/jenandjaina/"><img src="instagram.jpg" title="Instagaram" alt="Instalink" href="http://www.facebook.com/jen.tag.12/"><img src="Facebook Icon.PNG" title="Facebook" alt="FBlink"></a>
 
 > ABOUT MySELF
 
