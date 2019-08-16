@@ -1,10 +1,10 @@
 <a href="http://2cupsofart.com"><img src="firetree.jpg" title="FireTree" alt="2cupsofart"></a>
 
-*Raise your mugs!.... clean your brushes
-    *Mix your magical colors
-    *..... and sip that hot coffee of yours! 
+# Raise your mugs!.... clean your brushes
+   # Mix your magical colors
+   # ..... and sip that hot coffee of yours! 
 
-# A place where artists and coffee lovers' frienship sprouts...
+## A place where artists and coffee lovers' frienship sprouts...
 
 - [About MySELF](#aboutmyself)
 - [Gallery](Gallery.md)
