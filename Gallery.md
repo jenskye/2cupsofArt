@@ -10,8 +10,8 @@
 <a id="single_1" href="firetree.jpg" title="Fire Tree by JenTag">
 	<img src="firetree.jpg" alt="" />
 </a>
-<a id="single_2" href="http://farm1.staticflickr.com/756/22625719192_fdc3369588_b.jpg" title="Transparence (delphine.cury)">
-	<img src="http://farm1.staticflickr.com/756/22625719192_fdc3369588_m.jpg" alt="" />
+<a id="single_2" href="burning tree.png" title="Burning Tree by JenTag">
+	<img src="burning tree.png" alt="" />
 </a>
 <a id="single_3" href="http://farm9.staticflickr.com/8542/29466009773_a809b99d19_b.jpg" title="aletsch (|| | | gamma | | ||)">
 	<img src="http://farm9.staticflickr.com/8542/29466009773_a809b99d19_m.jpg" alt="" />
