@@ -1,5 +1,4 @@
-<a href="http://2cupsofart.com"><img src="2CupsOfArtLogo.png" title="2CupsOfArt" alt="2cupsofart"></a>
-
+<a href="http://2cupsofart.com"><img src="2CupsOfArtLogo.png" title="2CupsOfArt" alt="2cupsofart"></a> 
 # Clean your brushes.... Mix your magical colors!
 # Raise your mugs..... and enjoy that hot coffee of yours! 
 
