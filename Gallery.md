@@ -22,7 +22,7 @@
 
 
 <a data-fancybox="gallery" href="firetree.jpg"><img src="firetree.jpg"></a>
-<a data-fancybox="gallery" href="big_2.jpg"><img src="small_2.jpg"></a>
+<a data-fancybox="gallery" href="burning tree.PNG"><img src="burning tree.PNG"></a>
 
 
 
