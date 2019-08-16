@@ -9,7 +9,7 @@
 
 <a data-fancybox="gallery" href="firetree.jpg"><img src="firetree.jpg"></a>
 <a data-fancybox="gallery" href="burning tree.PNG"><img src="burning tree.PNG"></a>
-<a data-fancybox="gallery" href="fish.PNG"><img src="fish.PNG"></a>
+<a data-fancybox="gallery" href="Fish.PNG"><img src="Fish.PNG"></a>
 <a data-fancybox="gallery" href="Autumn.PNG"><img src="Autumn.PNG"></a>
 
 
