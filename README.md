@@ -1,8 +1,11 @@
 <a href="http://2cupsofart.com"><img src="firetree.jpg" title="FireTree" alt="2cupsofart"></a>
 
-# Hello Artists of the world!
+# Raise your mugs
+  # Clean your brushes
+    # Mix your magical colors
+      # and sip that hot coffee of yours! 
 
-    # a place where artists and coffee lovers' frienship sprouts...
+# A place where artists and coffee lovers' frienship sprouts...
 
 - [About MySELF](#aboutmyself)
 - [Gallery](Gallery.md)
@@ -15,10 +18,3 @@ I grew up in the province of Iloilo Philippines and I am previledge to experienc
 
 <a href="http://www.instagram.com/jenandjaina/"><img src="instagram.jpg" title="Instagaram" alt="Instalink"></a>
 
-<a data-fancybox="gallery" href="firetree.jpg">
-    <img src="small_1.jpg">
-</a>
-
-<a data-fancybox="gallery" href="burning tree.png”>
-    <img src="small_2.jpg">
-</a>
