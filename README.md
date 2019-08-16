@@ -1,4 +1,4 @@
-<a href="http://2cupsofart.com"><img src="https://github.com/jenskye/2cupsofART2/blob/master/firetree.jpg" title="FireTree" alt="2cupsofart"></a>
+<a href="http://2cupsofart.com"><img src="firetree.jpg" title="FireTree" alt="2cupsofart"></a>
 
 # Hello Artists of the world!
 
