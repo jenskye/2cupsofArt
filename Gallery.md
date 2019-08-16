@@ -14,7 +14,6 @@
 	<img src="burning tree.PNG" alt="" />
 </a>
 
-<!-- 1. Add latest jQuery and fancybox files -->
 
 <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
 
@@ -22,11 +21,8 @@
 <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 
-
-<!-- 2. Create links -->
-
-<a data-fancybox="gallery" href="big_1.jpg"><img src="small_1.jpg"></a>
+<a data-fancybox="gallery" href="firetree.jpg"><img src="firetree.jpg"></a>
 <a data-fancybox="gallery" href="big_2.jpg"><img src="small_2.jpg"></a>
 
 
-<!-- 3. Have fun! -->
+
