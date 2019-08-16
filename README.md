@@ -5,7 +5,7 @@
     # a place where artists and coffee lovers' frienship sprouts...
 
 - [About MySELF](#aboutmyself)
-- [Gallery](https://github.com/jenskye/2cupsofart/blob/master/Gallery.md)
+- [Gallery](Gallery.md)
 - [Social Media](#socialmedia)
 
 > ABOUT MySELF
